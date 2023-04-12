@@ -10,7 +10,6 @@
   <a href="https://github.com/rmdnps10"><img src="https://github.com/rmdnps10.png" width="100"></a>
   <a href="https://github.com/sunghyun1356"><img src="https://github.com/sunghyun1356.png" width="100"></a>
 </span>
-<!-- 작업물 -->
 <img src = "./images/강민석.png">
 <img src = "./images/김성현.png">
 <img src = "./images/송경호.png">
