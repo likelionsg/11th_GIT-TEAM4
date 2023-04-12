@@ -10,6 +10,12 @@
   <a href="https://github.com/rmdnps10"><img src="https://github.com/rmdnps10.png" width="100"></a>
   <a href="https://github.com/sunghyun1356"><img src="https://github.com/sunghyun1356.png" width="100"></a>
 </span>
+
+<div style="text-align:center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=?style=flat-square&logo=HTML&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
+</div>
+
 <img src = "./images/강민석.png">
 <img src = "./images/김성현.png">
 <img src = "./images/송경호.png">
