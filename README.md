@@ -4,7 +4,6 @@
 
 <!-- 작업물 -->
 
-<img src = "./images/강민석.PNG">
 <span>
   <a href="https://github.com/iamneveralone"><img src="https://github.com/iamneveralone.png" width="100"></a>
   <a href="https://github.com/13155a1"><img src="https://github.com/13155a1.png" width="100"></a>
@@ -19,7 +18,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
 </div>
 
-<img src = "./images/강민석.png">
+<img src = "./images/강민석.PNG">
 <img src = "./images/김성현.png">
 <img src = "./images/송경호.png">
 <img src = "./images/신선희.png">
