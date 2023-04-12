@@ -4,7 +4,7 @@
 
 <!-- 작업물 -->
 
-<img src = "./images/강민석.png">
+<img src = "./images/강민석.PNG">
 <img src = "./images/김성현.png">
 <img src = "./images/송경호.png">
 <img src = "./images/신선희.png">
